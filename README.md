@@ -11,7 +11,7 @@ npm install deunicode
 ## Quickstart
 
 ```js
-import { deunicode } from 'unicode';
+import { deunicode } from 'deunicode';
 
 const text = '\uFF28\u1D07\u029f\u029f\u1D0F \u1D21\u1D0F\u0280\u029f\u1D05\uFE57';
 
