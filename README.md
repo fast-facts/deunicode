@@ -1,6 +1,6 @@
 # Deunicode
 
-A simple function to replace unicode characters with their ascii counterparts. List of replacements available on [twilio](https://www.twilio.com/docs/messaging/services/smart-encoding-char-list).
+A simple function to replace unicode characters with their ascii counterparts. Most of the replacements come from [twilio](https://www.twilio.com/docs/messaging/services/smart-encoding-char-list).
 
 ## Installation
 
