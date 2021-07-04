@@ -1,5 +1,7 @@
 export function deunicode(text: string) {
-  return text.replace(/\u00AB/g, '"')
+  return text
+    // Twilio replacements
+    .replace(/\u00AB/g, '"')
     .replace(/\u00BB/g, '"')
     .replace(/\u201C/g, '"')
     .replace(/\u201D/g, '"')
@@ -274,5 +276,8 @@ export function deunicode(text: string) {
     .replace(/\u2028/g, '')
     .replace(/\u2029/g, '')
     .replace(/\u205F/g, '')
-    .replace(/\u2060/g, '');
+    .replace(/\u2060/g, '')
+    // Extra replacements
+    .replace(/\u2122/g, '')
+    .replace(/\u20ac/g, '');
 }
