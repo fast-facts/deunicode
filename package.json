@@ -1,6 +1,6 @@
 {
   "name": "deunicode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Replace unicode characters with ascii equivalent",
   "main": "index.js",
   "scripts": {
