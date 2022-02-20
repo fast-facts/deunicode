@@ -1,5 +1,5 @@
 {
-  "name": "deunicode",
+  "name": "deunicode", 
   "version": "1.0.3",
   "description": "Replace unicode characters with ascii equivalent",
   "main": "index.js",
