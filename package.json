@@ -4,7 +4,6 @@
   "description": "Replace unicode characters with ascii equivalent",
   "main": "index.js",
   "scripts": {
-    "prebuild": "npm run clean",
     "lint": "eslint . --ext .ts",
     "build": "tsc",
     "postbuild": "npm run copy:files",
