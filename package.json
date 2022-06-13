@@ -9,7 +9,7 @@
     "lint": "eslint . --ext .ts",
     "build": "tsc",
     "postbuild": "npm run copy:files",
-    "copy:files": "copyfiles package.json README.md LICENSE dist",
+    "copy:files": "copyfiles README.md LICENSE dist",
     "test": "mocha"
   },
   "repository": {
