@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzRabbs/deunicode.git"
+    "url": "git+https://github.com/RabbitPlayground/deunicode.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ItzRabbs/deunicode/issues"
+    "url": "https://github.com/RabbitPlayground/deunicode/issues"
   },
-  "homepage": "https://github.com/ItzRabbs/deunicode#readme",
+  "homepage": "https://github.com/RabbitPlayground/deunicode#readme",
   "keywords": [
     "unicode",
     "ascii",
