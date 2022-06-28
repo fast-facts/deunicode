@@ -26,7 +26,7 @@
     "twilio"
   ],
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/eslint-plugin": "^5.30.0",
     "@typescript-eslint/parser": "^5.29.0",
     "chai": "^4.3.4",
     "copyfiles": "^2.2.0",
