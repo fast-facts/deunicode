@@ -9,7 +9,7 @@ on:
       - master
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
+  group: ${{ github.workflow }}-${{ github.base_ref }}
   cancel-in-progress: true
 
 jobs:
@@ -22,11 +22,11 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-          
+
       - run: npm run lint
       - run: npm run build
       - run: npm test
-      
+
       - uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.NPM_AUTH_TOKEN }}
