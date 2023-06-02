@@ -33,6 +33,6 @@
     "eslint": "^8.41.0",
     "eslint-plugin-deprecation": "^1.4.1",
     "mocha": "^10.2.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.1.3"
   }
 }
