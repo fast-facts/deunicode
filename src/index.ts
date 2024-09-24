@@ -1,3 +1,4 @@
+/* eslint-disable @stylistic/quote-props */
 export function deunicode(text: string) {
   return text.replace(/[^A-Za-z0-9]/g, x => x in replacements ? (replacements as any)[x] : x);
 }
@@ -365,5 +366,5 @@ const replacements = {
   '\u207C': '',
   '\u207D': '',
   '\u207E': '',
-  '\u207F': ''
+  '\u207F': '',
 };
