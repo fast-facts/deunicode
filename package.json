@@ -29,9 +29,9 @@
     "chai": "^4.5.0",
     "copyfiles": "^2.2.0",
     "eslint": "^9.13.0",
-    "eslint-config-final": "^1.4.8",
+    "eslint-config-final": "^1.4.9",
     "mocha": "^10.7.3",
     "typescript": "^5.5.4",
-    "typescript-eslint": "^8.11.0"
+    "typescript-eslint": "^8.12.1"
   }
 }
