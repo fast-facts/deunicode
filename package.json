@@ -29,7 +29,7 @@
     "chai": "^4.5.0",
     "copyfiles": "^2.2.0",
     "eslint-config-final": "^1.6.2",
-    "mocha": "^11.6.0",
+    "mocha": "^11.7.0",
     "typescript": "^5.8.3"
   }
 }
