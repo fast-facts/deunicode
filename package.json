@@ -30,6 +30,6 @@
     "copyfiles": "^2.2.0",
     "eslint-config-final": "^1.6.8",
     "mocha": "^11.7.1",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.2"
   }
 }
