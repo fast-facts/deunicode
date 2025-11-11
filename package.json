@@ -28,7 +28,7 @@
   "devDependencies": {
     "chai": "^4.5.0",
     "copyfiles": "^2.2.0",
-    "eslint-config-final": "^1.6.21",
+    "eslint-config-final": "^1.6.22",
     "mocha": "^11.7.5",
     "typescript": "^5.9.3"
   }
