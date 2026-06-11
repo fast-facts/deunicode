@@ -49,7 +49,7 @@
             "enabled": false
         },
         {
-            "matchPackagePatterns": [
+            "matchPackageNames": [
                 "*typescript*",
                 "*eslint*"
             ],
